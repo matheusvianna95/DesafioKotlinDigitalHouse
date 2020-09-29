@@ -6,4 +6,4 @@ O desafio consiste em criar um diagrama e implementar classes de acordo com requ
 
 ### Diagrama UML
 
-![UML](/media/desafioKotlinDigitalHouse.png)
+![UML](media/DesafioKotlinDigitalHouse.png)
