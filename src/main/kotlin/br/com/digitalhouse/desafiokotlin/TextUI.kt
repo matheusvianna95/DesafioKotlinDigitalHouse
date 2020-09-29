@@ -129,7 +129,7 @@ class TextUI {
                         idProfessor,
                         horasMonitoria
                     )
-                ) "Professor titular cadastrado com sucesso."
+                ) "Professor adjunto cadastrado com sucesso."
                 else "Já existe um professor cadastrado com esse código."
             } // professor adjunto
 
